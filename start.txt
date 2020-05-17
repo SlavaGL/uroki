@@ -5,3 +5,5 @@ cp3 3 commit
 cp1 1 commit
 cp1 2 commit и еще что то
 cp1 3 commit ля ля ля
+
+сотрим смещение веток
